@@ -1,4 +1,4 @@
-# Prov — by Vektor Memory
+# Provenance — by Vektor Memory
 
 > Provenance - what your code looked like, and when. Cryptographic and verifiable, works on any codebase.
 
