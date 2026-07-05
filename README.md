@@ -14,7 +14,7 @@ Prov stamps proprietary headers into your source, snapshots your codebase into a
 
 Part of the Vektor ecosystem alongside [Via](https://github.com/Vektor-Memory/Via) and [Vex](https://github.com/Vektor-Memory/Vex).
 
-\---
+
 
 ## The problem
 
@@ -22,11 +22,10 @@ Copyright headers get stripped. Timestamps from a single authority are a single 
 
 Prov solves all four: config-driven, Merkle-provable, dual-anchored, and CI-checkable.
 
-\---
+
 
 ## Install
 
-```
 npm install -g @vektormemory/prov
 # or run without installing
 npx prov --help
